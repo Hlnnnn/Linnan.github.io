@@ -24,13 +24,13 @@ repository               : "Hlnnnn/Linnan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Linnan Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Research interests: non-stationary signal processing, EEG analysis, speech signal processing, and model-driven deep learningr"
+  location         : "Ningbo, China"
+  employer         : "Zhejiang Pharmaceutical University; Research Intern,  Ningbo Institute of Materials Technology & Engineering, CAS"
+  uri              : "https://hlnnnn.github.io/Linnan.github.io/"
+  email            : "hln6666661@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "hlnnnn"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
