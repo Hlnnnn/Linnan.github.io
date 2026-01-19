@@ -11,54 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **Zhejiang Pharmaceutical University**, Zhejiang, China  
+  B.Eng. in Assistive Devices and Rehabilitation Engineering  
+  Sep 2022 – Jul 2026 (expected)  
+  GPA: 3.07 / 5.00 (Rank: 2 / 26, as of Spring 2025)
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**  
+  Ningbo Institute of Materials Technology and Engineering (NIMTE),  
+  Chinese Academy of Sciences (CAS)  
+  Jun 2025 – Present  
+  - Participated in research projects related to biomedical signal processing and data-driven modeling  
+  - Conducted preprocessing and analysis of non-stationary biomedical signals, including filtering and feature extraction  
+  - Performed multidimensional feature extraction on EEG and speech signal data  
+  - Assisted in applying deep learning methods for signal classification and cognitive impairment analysis  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+======
+
+* **EEG Feature Fusion for Cognitive Assessment**  
+  - Implemented EEG signal preprocessing pipelines, including noise removal and normalization  
+  - Extracted time-domain, frequency-domain, and nonlinear features for analysis  
+  - Explored feature fusion strategies for downstream machine learning models  
+
+* **Biomedical Signal Processing Project**  
+  - Analyzed biomedical signal datasets using classical signal processing techniques  
+  - Conducted sensitivity analysis and feature evaluation to support classification tasks  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Programming**: Python, MATLAB  
+* **Signal Processing**: EEG analysis, non-stationary signal processing, multidimensional feature extraction  
+* **Machine Learning**: Deep learning fundamentals, data-driven modeling  
+* **Tools & Libraries**: NumPy, SciPy, PyTorch (basic), MATLAB Toolboxes
