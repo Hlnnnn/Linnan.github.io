@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+
 
 I am currently preparing a manuscript for journal submission.
 
