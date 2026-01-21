@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Curriculum Vitae (PDF)
+Here's my CV!
 
 <iframe
   src="{{ base_path }}/files/Linnan_Huang_CV.pdf"
