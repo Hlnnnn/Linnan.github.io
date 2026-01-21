@@ -18,8 +18,5 @@ Here's my CV!
   style="border: 1px solid #ddd;">
 </iframe>
 
-<p style="margin-top: 10px;">
-  <a href="{{ base_path }}/files/Linnan_Huang_CV.pdf" target="_blank">
-    📄 Download CV (PDF)
-  </a>
-</p>
+[Download CV (PDF)]({{ base_path }}/files/Linnan_Huang_CV.pdf)
+
