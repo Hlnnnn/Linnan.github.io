@@ -21,19 +21,21 @@ repository               : "Hlnnnn/Linnan.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
+
+
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Linnan Huang"
-  pronouns         : # example: "she/her"  
-bio: |
-  If I’m right, I celebrate. If I’m wrong, I improve—and still celebrate.
-  对了就庆祝，错了就进步（然后庆祝）
-
+  pronouns         : # example: "she/her"
+  bio              : |
+    If I’m right, I celebrate. If I’m wrong, I improve—and still celebrate.
+    对了就庆祝，错了就进步（然后庆祝）
   location         : "Ningbo, China"
-  employer         : "Zhejiang Pharmaceutical University;
+  employer         : "Zhejiang Pharmaceutical University"
   uri              : "https://hlnnnn.github.io/Linnan.github.io/"
-  email            : "hln6666661@gmail.com" 
+  email            : "hln6666661@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -49,14 +51,13 @@ bio: |
   scopus           : # URL
   zotero           : # URL
 
-
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "hlnnnn"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
